@@ -1,0 +1,112 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 5995 >>
+stream
+BT /F2 14.0 Tf 45.00 786.89 Td (AI-Use Disclosure) Tj ET
+0.20 G 1.00 w 45.00 774.89 m 550.28 774.89 l S 0 G
+BT /F2 8.5 Tf 45.00 755.89 Td (IBM Qiskit Fall Fest 2026 | QC@IITI, IIT Indore | Industry Challenge by QryptoNox) Tj ET
+BT /F1 8.0 Tf 45.00 741.89 Td (Mandatory 1-Page Disclosure Form [Rules Section 10, 12, 14]) Tj ET
+0.75 G 0.50 w 45.00 734.89 m 550.28 734.89 l S 0 G
+BT /F2 11.5 Tf 45.00 720.89 Td (1. Tools and Environment) Tj ET
+0.50 G 0.50 w 45.00 711.39 m 550.28 711.39 l S 0 G
+0.92 0.94 0.96 rg 45.00 691.59 505.28 13.80 re f 0 g
+0.30 G 0.60 w 45.00 705.39 m 550.28 705.39 l S 0 G
+0.30 G 0.60 w 45.00 691.59 m 550.28 691.59 l S 0 G
+BT /F2 7.8 Tf 48.00 695.59 Td (Item) Tj ET
+BT /F2 7.8 Tf 188.00 695.59 Td (Specification & Version) Tj ET
+0.75 G 0.30 w 45.00 677.79 m 550.28 677.79 l S 0 G
+BT /F1 7.8 Tf 48.00 681.79 Td (AI Assistant Used) Tj ET
+BT /F1 7.8 Tf 188.00 681.79 Td (Antigravity AI Coding Assistant \(Gemini 3.8 Flash model\)) Tj ET
+0.98 0.98 0.99 rg 45.00 663.99 505.28 13.80 re f 0 g
+0.75 G 0.30 w 45.00 663.99 m 550.28 663.99 l S 0 G
+BT /F1 7.8 Tf 48.00 667.99 Td (Submission Libraries) Tj ET
+BT /F1 7.8 Tf 188.00 667.99 Td (Qiskit 2.5.2, NumPy 2.5.4, SciPy 1.18.1, Python Standard Library) Tj ET
+0.75 G 0.30 w 45.00 650.19 m 550.28 650.19 l S 0 G
+BT /F1 7.8 Tf 48.00 654.19 Td (Testing & Dev Environment) Tj ET
+BT /F1 7.8 Tf 188.00 654.19 Td (Pytest 9.1.1, Colorama 0.4.6 \(isolated in requirements-dev.txt and local/\)) Tj ET
+BT /F2 11.5 Tf 45.00 636.19 Td (2. What AI Assistance Was Used For) Tj ET
+0.50 G 0.50 w 45.00 626.69 m 550.28 626.69 l S 0 G
+BT /F1 8.2 Tf 45.00 609.69 Td (1. Test-Driven Development \(TDD\) Workflow: Writing comprehensive test suites \(tests/\) before solver implementation.) Tj ET
+BT /F1 8.2 Tf 45.00 595.69 Td (2. Qiskit 2.x Circuit Construction: Synthesis of Gate\('oracle', n+m, []\) placeholder circuits, little-endian bit) Tj ET
+BT /F1 8.2 Tf 45.00 584.69 Td (decoders, and Fast Walsh-Hadamard Transform in O\(N log N\).) Tj ET
+BT /F1 8.2 Tf 45.00 570.69 Td (3. Local Simulation Engine: Designing a vectorized basis-state permutation runner for 16-qubit oracles that) Tj ET
+BT /F1 8.2 Tf 45.00 559.69 Td (eliminated 64 GiB matrix allocation, running in 1 MB RAM and 0.0004s.) Tj ET
+BT /F2 11.5 Tf 45.00 548.69 Td (3. Independent Human Verification & What AI Got Wrong) Tj ET
+0.50 G 0.50 w 45.00 539.19 m 550.28 539.19 l S 0 G
+BT /F1 8.2 Tf 45.00 522.19 Td (Every formula and algorithm proposed by the AI was independently checked against empirical quantum simulations:) Tj ET
+0.92 0.94 0.96 rg 45.00 505.99 505.28 13.20 re f 0 g
+0.30 G 0.60 w 45.00 519.19 m 550.28 519.19 l S 0 G
+0.30 G 0.60 w 45.00 505.99 m 550.28 505.99 l S 0 G
+BT /F2 7.2 Tf 48.00 509.99 Td (Hypothesis / Component) Tj ET
+BT /F2 7.2 Tf 138.00 509.99 Td (AI Claim [HAND-CALC]) Tj ET
+BT /F2 7.2 Tf 248.00 509.99 Td (Independent Simulation Result) Tj ET
+BT /F2 7.2 Tf 363.00 509.99 Td (Action Taken) Tj ET
+0.75 G 0.30 w 45.00 492.79 m 550.28 492.79 l S 0 G
+BT /F1 7.2 Tf 48.00 496.79 Td (Grover Recovery \(E-02\)) Tj ET
+BT /F1 7.2 Tf 138.00 496.79 Td (Claimed k=4..5 iterations in 2 shots yields >80% marked item recovery.) Tj ET
+BT /F1 7.2 Tf 248.00 496.79 Td (WRONG. Empirical success was only 28% at k=4 and 44% at k=5 due to sin^2\(\(2k+1\)theta\) bounds.) Tj ET
+BT /F1 7.2 Tf 363.00 496.79 Td (Rejected naive formula; allocated k=6 with verification read and honest failure fallback.) Tj ET
+0.98 0.98 0.99 rg 45.00 479.59 505.28 13.20 re f 0 g
+0.75 G 0.30 w 45.00 479.59 m 550.28 479.59 l S 0 G
+BT /F1 7.2 Tf 48.00 483.59 Td (Walsh Threshold at Stress Noise \(E-05\)) Tj ET
+BT /F1 7.2 Tf 138.00 483.59 Td (Static 0.70 * shots threshold assumed to separate Simon and Perm.) Tj ET
+BT /F1 7.2 Tf 248.00 483.59 Td (WRONG. Under Stress Noise N2, Simon peaks dropped to 0.60 * shots, causing false negatives.) Tj ET
+BT /F2 7.2 Tf 363.00 483.59 Td (Replaced static cut with order-statistics gap test \(gap >= 10\) and XOR triad check, reaching 100% precision.) Tj ET
+0.75 G 0.30 w 45.00 466.39 m 550.28 466.39 l S 0 G
+BT /F1 7.2 Tf 48.00 470.39 Td (Qiskit Endianness \(Q6\)) Tj ET
+BT /F1 7.2 Tf 138.00 470.39 Td (Hand-coded CNOT matrix inverted target and control bit indices.) Tj ET
+BT /F1 7.2 Tf 248.00 470.39 Td (Q6 check caught mismatch immediately \(got 01, expected 11\).) Tj ET
+BT /F1 7.2 Tf 363.00 470.39 Td (Corrected matrix tensor product order to match Qiskit convention.) Tj ET
+0.98 0.98 0.99 rg 45.00 453.19 505.28 13.20 re f 0 g
+0.75 G 0.30 w 45.00 453.19 m 550.28 453.19 l S 0 G
+BT /F1 7.2 Tf 48.00 457.19 Td (BV Readout Fidelity \(E-01\)) Tj ET
+BT /F1 7.2 Tf 138.00 457.19 Td (Derived p\(0^8\) = \(1 - p_flip\)^8 approx 0.8508 under Base Noise N1.) Tj ET
+BT /F1 7.2 Tf 248.00 457.19 Td (Verified empirically at 0.8580 across 30 independent trials.) Tj ET
+BT /F1 7.2 Tf 363.00 457.19 Td (Confirmed and frozen into decision controller thresholds.) Tj ET
+BT /F2 11.5 Tf 45.00 439.19 Td (4. Compliance Declaration) Tj ET
+0.50 G 0.50 w 45.00 429.69 m 550.28 429.69 l S 0 G
+BT /F1 8.2 Tf 45.00 412.69 Td ([X] No Internal Inspection: Decisions rely strictly on measurement counts returned by run\(\). Zero inspect or seed) Tj ET
+BT /F1 8.2 Tf 45.00 401.69 Td (lookups.) Tj ET
+BT /F1 8.2 Tf 45.00 387.69 Td ([X] Import Isolation: solver.py imports only stdlib, numpy, scipy, qiskit. Never imports from local/.) Tj ET
+BT /F1 8.2 Tf 45.00 373.69 Td ([X] Clean Directory Execution: solver.py verified to execute standalone in an isolated directory \(TEST-021\).) Tj ET
+BT /F1 8.2 Tf 45.00 359.69 Td ([X] Query Budget Enforced: Charge-before-call QueryLedger guarantees query cost <= 60 under all branches.) Tj ET
+0.75 G 0.50 w 45.00 352.69 m 550.28 352.69 l S 0 G
+BT /F2 7.5 Tf 45.00 335.69 Td (Declaration: We confirm that this AI-use disclosure accurately reflects all generative AI contributions.) Tj ET
+0.7 G 0.3 w 45.00 32.00 m 550.28 32.00 l S 0 G
+BT /F1 7.5 Tf 45.00 22.00 Td (Page 1 of 1  |  Quantum Oracle Forensics  |  IBM Qiskit Fall Fest 2026) Tj ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000328 00000 n 
+0000006375 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info << /Title (AI-Use Disclosure: Quantum Oracle Forensics) /Producer (MinimalPDF Python) >> >>
+startxref
+6527
+%%EOF

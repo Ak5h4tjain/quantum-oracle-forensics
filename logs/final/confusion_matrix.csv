@@ -1,0 +1,9 @@
+true_family,constant,balanced,linear,grover,randfun,simon,simon2,perm,total,accuracy_pct
+constant,20,0,0,0,0,0,0,0,20,100.0
+balanced,0,14,0,0,6,0,0,0,20,70.0
+linear,0,0,20,0,0,0,0,0,20,100.0
+grover,16,0,0,4,0,0,0,0,20,20.0
+randfun,0,5,0,0,15,0,0,0,20,75.0
+simon,0,0,0,0,0,20,0,0,20,100.0
+simon2,0,0,0,0,0,1,19,0,20,95.0
+perm,0,0,0,0,0,0,0,20,20,100.0

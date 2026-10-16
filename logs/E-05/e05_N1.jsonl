@@ -1,0 +1,90 @@
+{"true_family": "simon", "pred_family": "simon", "true_secret": 52, "pred_secret": 52, "num_peaks": 1, "top_score": 34.0, "second_score": 14.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 231, "pred_secret": 231, "num_peaks": 1, "top_score": 28.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "perm", "true_secret": 155, "pred_secret": null, "num_peaks": 0, "top_score": 24.0, "second_score": 14.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 76, "pred_secret": 76, "num_peaks": 1, "top_score": 34.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 186, "pred_secret": 186, "num_peaks": 1, "top_score": 32.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 110, "pred_secret": 110, "num_peaks": 1, "top_score": 36.0, "second_score": 12.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 132, "pred_secret": 132, "num_peaks": 1, "top_score": 34.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 14, "pred_secret": 14, "num_peaks": 1, "top_score": 28.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 91, "pred_secret": 91, "num_peaks": 1, "top_score": 30.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 186, "pred_secret": 186, "num_peaks": 1, "top_score": 28.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 177, "pred_secret": 177, "num_peaks": 1, "top_score": 32.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 74, "pred_secret": 74, "num_peaks": 1, "top_score": 30.0, "second_score": 14.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 190, "pred_secret": 190, "num_peaks": 1, "top_score": 30.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 37, "pred_secret": 37, "num_peaks": 1, "top_score": 34.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 152, "pred_secret": 152, "num_peaks": 1, "top_score": 32.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 144, "pred_secret": 144, "num_peaks": 1, "top_score": 36.0, "second_score": 14.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 164, "pred_secret": 164, "num_peaks": 1, "top_score": 28.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 252, "pred_secret": 252, "num_peaks": 1, "top_score": 28.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 228, "pred_secret": 228, "num_peaks": 1, "top_score": 30.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 87, "pred_secret": 87, "num_peaks": 1, "top_score": 34.0, "second_score": 14.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 218, "pred_secret": 218, "num_peaks": 1, "top_score": 30.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 45, "pred_secret": 45, "num_peaks": 1, "top_score": 26.0, "second_score": 20.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 223, "pred_secret": 223, "num_peaks": 1, "top_score": 26.0, "second_score": 22.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 67, "pred_secret": 67, "num_peaks": 1, "top_score": 34.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 143, "pred_secret": 143, "num_peaks": 1, "top_score": 28.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 188, "pred_secret": 188, "num_peaks": 1, "top_score": 28.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 159, "pred_secret": 159, "num_peaks": 1, "top_score": 28.0, "second_score": 16.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 158, "pred_secret": 158, "num_peaks": 1, "top_score": 28.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 149, "pred_secret": 149, "num_peaks": 1, "top_score": 34.0, "second_score": 18.0}
+{"true_family": "simon", "pred_family": "simon", "true_secret": 142, "pred_secret": 142, "num_peaks": 1, "top_score": 26.0, "second_score": 16.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [52, 133, 177], "pred_secret": [52, 133, 177], "num_peaks": 3, "top_score": 34.0, "second_score": 34.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [122, 157, 231], "pred_secret": [122, 157, 231], "num_peaks": 3, "top_score": 30.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon", "true_secret": [98, 155, 249], "pred_secret": 98, "num_peaks": 2, "top_score": 32.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [48, 76, 124], "pred_secret": [48, 76, 124], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [1, 186, 187], "pred_secret": [1, 186, 187], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [21, 110, 123], "pred_secret": [21, 110, 123], "num_peaks": 3, "top_score": 36.0, "second_score": 34.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [86, 132, 210], "pred_secret": [86, 132, 210], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [14, 19, 29], "pred_secret": [14, 19, 29], "num_peaks": 3, "top_score": 34.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [43, 91, 112], "pred_secret": [43, 91, 112], "num_peaks": 3, "top_score": 32.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [15, 181, 186], "pred_secret": [15, 181, 186], "num_peaks": 3, "top_score": 34.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [25, 168, 177], "pred_secret": [25, 168, 177], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [3, 73, 74], "pred_secret": [3, 73, 74], "num_peaks": 3, "top_score": 36.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [79, 190, 241], "pred_secret": [79, 190, 241], "num_peaks": 3, "top_score": 30.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [37, 203, 238], "pred_secret": [37, 203, 238], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [112, 152, 232], "pred_secret": [112, 152, 232], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [92, 144, 204], "pred_secret": [92, 144, 204], "num_peaks": 3, "top_score": 36.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [59, 159, 164], "pred_secret": [59, 159, 164], "num_peaks": 3, "top_score": 30.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [23, 235, 252], "pred_secret": [23, 235, 252], "num_peaks": 3, "top_score": 30.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [124, 152, 228], "pred_secret": [124, 152, 228], "num_peaks": 3, "top_score": 32.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [56, 87, 111], "pred_secret": [56, 87, 111], "num_peaks": 3, "top_score": 34.0, "second_score": 32.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [78, 148, 218], "pred_secret": [78, 148, 218], "num_peaks": 3, "top_score": 36.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [45, 77, 96], "pred_secret": [45, 77, 96], "num_peaks": 3, "top_score": 32.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [1, 222, 223], "pred_secret": [1, 222, 223], "num_peaks": 3, "top_score": 34.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [20, 67, 87], "pred_secret": [20, 67, 87], "num_peaks": 3, "top_score": 36.0, "second_score": 34.0}
+{"true_family": "simon2", "pred_family": "simon", "true_secret": [83, 143, 220], "pred_secret": 143, "num_peaks": 2, "top_score": 28.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon", "true_secret": [110, 188, 210], "pred_secret": 210, "num_peaks": 2, "top_score": 30.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon", "true_secret": [44, 159, 179], "pred_secret": 159, "num_peaks": 2, "top_score": 28.0, "second_score": 28.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [8, 150, 158], "pred_secret": [8, 150, 158], "num_peaks": 3, "top_score": 34.0, "second_score": 30.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [68, 149, 209], "pred_secret": [68, 149, 209], "num_peaks": 3, "top_score": 34.0, "second_score": 34.0}
+{"true_family": "simon2", "pred_family": "simon2", "true_secret": [88, 142, 214], "pred_secret": [88, 142, 214], "num_peaks": 3, "top_score": 32.0, "second_score": 26.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 12.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 24.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 14.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 20.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 14.0, "second_score": 12.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 18.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 14.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 14.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 16.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 20.0, "second_score": 18.0}
+{"true_family": "perm", "pred_family": "perm", "true_secret": null, "pred_secret": null, "num_peaks": 0, "top_score": 16.0, "second_score": 16.0}

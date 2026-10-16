@@ -1,0 +1,160 @@
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 0, "pred_secret": 0, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "constant", "pred_family": "constant", "expected_secret": 1, "pred_secret": 1, "fam_correct": true, "sec_correct": true, "queries_used": 22}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "balanced", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [197, 0], "pred_secret": [197, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [85, 1], "pred_secret": [85, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [117, 0], "pred_secret": [117, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [243, 0], "pred_secret": [243, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [84, 1], "pred_secret": [84, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [147, 0], "pred_secret": [147, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [39, 0], "pred_secret": [39, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [245, 0], "pred_secret": [245, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [202, 1], "pred_secret": [202, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [68, 1], "pred_secret": [68, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [253, 0], "pred_secret": [253, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [236, 1], "pred_secret": [236, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [157, 0], "pred_secret": [157, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [220, 0], "pred_secret": [220, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [72, 1], "pred_secret": [72, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [134, 0], "pred_secret": [134, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [178, 1], "pred_secret": [178, 1], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [60, 0], "pred_secret": [60, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [145, 0], "pred_secret": [145, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "linear", "pred_family": "linear", "expected_secret": [222, 0], "pred_secret": [222, 0], "fam_correct": true, "sec_correct": true, "queries_used": 18}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 197, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 84, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 117, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 243, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 83, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 147, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 38, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 245, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 202, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 67, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "grover", "expected_secret": 253, "pred_secret": 253, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 236, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 156, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 219, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 72, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "grover", "expected_secret": 134, "pred_secret": 134, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 178, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "grover", "pred_family": "grover", "expected_secret": 59, "pred_secret": 59, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "grover", "pred_family": "grover", "expected_secret": 145, "pred_secret": 145, "fam_correct": true, "sec_correct": true, "queries_used": 31}
+{"true_family": "grover", "pred_family": "constant", "expected_secret": 221, "pred_secret": 0, "fam_correct": false, "sec_correct": false, "queries_used": 31}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "balanced", "expected_secret": null, "pred_secret": null, "fam_correct": false, "sec_correct": true, "queries_used": 24}
+{"true_family": "randfun", "pred_family": "randfun", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 24}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 197, "pred_secret": 197, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 85, "pred_secret": 85, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 117, "pred_secret": 117, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 243, "pred_secret": 243, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 84, "pred_secret": 84, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 147, "pred_secret": 147, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 39, "pred_secret": 39, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 245, "pred_secret": 245, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 202, "pred_secret": 202, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 68, "pred_secret": 68, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 253, "pred_secret": 253, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 236, "pred_secret": 236, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 157, "pred_secret": 157, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 220, "pred_secret": 220, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 72, "pred_secret": 72, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 134, "pred_secret": 134, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 178, "pred_secret": 178, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 60, "pred_secret": 60, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 145, "pred_secret": 145, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon", "pred_family": "simon", "expected_secret": 222, "pred_secret": 222, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [112, 181, 197], "pred_secret": [112, 181, 197], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [85, 190, 235], "pred_secret": [85, 190, 235], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [38, 83, 117], "pred_secret": [38, 83, 117], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [16, 227, 243], "pred_secret": [16, 227, 243], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [84, 142, 218], "pred_secret": [84, 142, 218], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [25, 138, 147], "pred_secret": [25, 138, 147], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [9, 39, 46], "pred_secret": [9, 39, 46], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [114, 135, 245], "pred_secret": [114, 135, 245], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [31, 202, 213], "pred_secret": [31, 202, 213], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [68, 144, 212], "pred_secret": [68, 144, 212], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [31, 226, 253], "pred_secret": [31, 226, 253], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [52, 216, 236], "pred_secret": [52, 216, 236], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon", "expected_secret": [48, 157, 173], "pred_secret": 48, "fam_correct": false, "sec_correct": false, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [18, 206, 220], "pred_secret": [18, 206, 220], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [72, 152, 208], "pred_secret": [72, 152, 208], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [19, 134, 149], "pred_secret": [19, 134, 149], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [121, 178, 203], "pred_secret": [121, 178, 203], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [60, 88, 100], "pred_secret": [60, 88, 100], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [117, 145, 228], "pred_secret": [117, 145, 228], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "simon2", "pred_family": "simon2", "expected_secret": [115, 173, 222], "pred_secret": [115, 173, 222], "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}
+{"true_family": "perm", "pred_family": "perm", "expected_secret": null, "pred_secret": null, "fam_correct": true, "sec_correct": true, "queries_used": 48}

@@ -1,0 +1,15 @@
+{
+  "noise_configurations": {
+    "N0": {"p_misfire": 0.0, "p_flip": 0.0, "label": "noiseless"},
+    "N1": {"p_misfire": 0.04, "p_flip": 0.02, "label": "base"},
+    "N2": {"p_misfire": 0.08, "p_flip": 0.04, "label": "stress"},
+    "N3": {"p_misfire": 0.04, "p_flip": 0.04, "label": "high_flip"},
+    "N4": {"p_misfire": 0.08, "p_flip": 0.02, "label": "high_misfire"}
+  },
+  "seed_splits": {
+    "calibration": {"start": 1000, "count": 1000},
+    "validation": {"start": 2000, "count": 1000},
+    "test": {"start": 3000, "count": 1000}
+  },
+  "budget_caps": [20, 30, 40, 50, 60]
+}

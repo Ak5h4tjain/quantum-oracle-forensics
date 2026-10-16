@@ -1,0 +1,5 @@
+budget,trials,family_accuracy_pct,secret_accuracy_pct,avg_queries_used,budget_saved_pct
+1,80,35.00,18.75,4.41,-341.25
+1,80,40.00,22.50,6.19,-518.75
+1,80,38.75,22.50,7.09,-608.75
+1,80,38.75,22.50,7.09,-608.75

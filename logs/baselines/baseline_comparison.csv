@@ -1,0 +1,6 @@
+model,family_accuracy_pct,secret_accuracy_pct,avg_queries
+"BL-001 (Uniform Random)",26.25,7.50,0.00
+"BL-002 (Fixed Majority)",25.00,6.25,0.00
+"BL-003 (Classical Sampling)",33.75,30.00,32.00
+"BL-004 (Naive Textbook)",37.50,25.00,33.75
+"Ours (Quantum Forensics)",85.00,83.75,33.44
